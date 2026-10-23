@@ -14,7 +14,7 @@ a = {}
 b = dict()
 print(type(a), type(b))
 
-d = {"id": 1601, "name": "구현민", "age": 17}
+d = {"id": 1600, "name": "ㅇㅇㅇ", "age": 17}
 print(d)
 
 # 키로 값 가져오기
